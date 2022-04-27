@@ -30,7 +30,7 @@ public class WorldGeneration
 	public static Color waterColor = new Color(49, 109, 195);
 	
 	public static float waterLevel = 0f;
-	public static float sandReach = .02f;
+	public static float sandReach = .04f;
 	public static float snowLevel = .45f;
 	public static float stoneLevel = .35f;
 	
